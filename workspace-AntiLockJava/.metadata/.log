@@ -1,0 +1,2544 @@
+!SESSION 2016-11-05 21:24:43.839 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.468
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\AmaterasModeler.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.681
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\AmaterasStepCounter.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.744
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\AnyEditTools.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.808
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\CheckStyle.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.846
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\CheckStyle\eclipse\features\net.sf.eclipsecs_6.14.0.201602102232.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.906
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\CheckStyle\eclipse\features\net.sf.eclipsecs_6.14.0.201602102232.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.919
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\DBViewer.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:58.994
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\Eclipse2.0StylePluginSupport.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:59.056
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\EclipseColorTheme.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:59.083
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\EclipseColorTheme\eclipse\features\com.github.eclipsecolortheme.feature_1.0.0.201410260308.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:59.109
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\EclipseColorTheme\eclipse\features\com.github.eclipsecolortheme.feature_1.0.0.201410260308.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:24:59.119
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\EclipseRCP.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.519
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\EclipseRunner.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.573
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\FindBugs.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.624
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\Glance.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.701
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\JadClipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.777
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\JSDTJQuery.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.847
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\Limy.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.920
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\M2E-APT.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:00.981
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\MergeDoc.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.038
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\MinimalistGradleEditor.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.098
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\NTail.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.161
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\OpenExternal.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.223
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\QuickJUnit.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.325
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\QuickREx.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.373
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\Subversive.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.518
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\SubversiveJDT.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.579
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\TomcatLauncher.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.603
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\TomcatLauncher\eclipse\features\net.sf.eclipse.tomcat.feature_3.3.5.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-11-05 21:25:01.626
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\Users\_\Downloads\pleiades\eclipse\dropins\TomcatLauncher\eclipse\features\net.sf.eclipse.tomcat.feature_3.3.5.jar.
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 21:25:34.108
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:25:34.108
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4650afb0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b3e6fe0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:25:34.108
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@602309ec,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c609643,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:25:34.108
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9291743,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@68b63467,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@122a8be6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 0 2016-11-05 21:25:52.120
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-05 21:27:48.417 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 21:27:55.454
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:27:55.454
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d3f82cd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@34a46fbb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:27:55.454
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b067e0a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@573cc82d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:27:55.454
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@577a2f19,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16aa3f2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@319aefb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 0 2016-11-05 21:28:00.053
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-05 21:34:25.918
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 21:37:19.602
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 21:37:19.602
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4135b5f6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47bd121a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.jface 4 0 2016-11-05 22:00:25.614
+!MESSAGE Unhandled event loop exception during blocked modal context.
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (org.eclipse.swt.SWTException: Widget is disposed)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:172)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:387)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:500)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:284)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.disconnectFromWorkspace(IDEWorkbenchAdvisor.java:460)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.postShutdown(IDEWorkbenchAdvisor.java:306)
+	at org.eclipse.ui.internal.Workbench.shutdown(Workbench.java:3183)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1201)
+	at org.eclipse.ui.internal.Workbench.access$22(Workbench.java:1113)
+	at org.eclipse.ui.internal.Workbench$19.run(Workbench.java:1454)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1451)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1424)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1596)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$16(WorkbenchWindow.java:1542)
+	at org.eclipse.ui.internal.WorkbenchWindow$11.run(WorkbenchWindow.java:1628)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1625)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1639)
+	at org.eclipse.ui.internal.WorkbenchWindow$6.close(WorkbenchWindow.java:527)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer$7.shellClosed(WBWRenderer.java:518)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:98)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1137)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1122)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:308)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1703)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4678)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1633)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2117)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1633)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2117)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4774)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1633)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2117)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.SWT.error(SWT.java:4377)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:482)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:354)
+	at org.eclipse.swt.widgets.Tree.getSelection(Tree.java:3446)
+	at org.eclipse.jface.viewers.TreeViewer.getSelection(TreeViewer.java:232)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:311)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.setSelectionToWidget(AbstractTreeViewer.java:2545)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.setSelectionToWidget(AbstractTreeViewer.java:3001)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1469)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1423)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1523)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:522)
+	at org.eclipse.ui.dialogs.FilteredTree$NotifyingTreeViewer.refresh(FilteredTree.java:1240)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1482)
+	at org.eclipse.ui.dialogs.FilteredTree$NotifyingTreeViewer.refresh(FilteredTree.java:1228)
+	at com.eclipserunner.views.impl.RunnerView$3.run(RunnerView.java:415)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 77 more
+!SESSION 2016-11-05 22:00:45.008 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 22:00:51.569
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 22:00:51.569
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@163b0a20,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7e15c646,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 22:00:51.569
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5f472d5e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39f3a730,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 22:00:51.569
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b655e09,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c00b721,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f6ddaf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 22:00:56.574
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 22:00:56.574
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7ba01539,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ad19097,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-05 22:00:58.291
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-05 22:00:59.172
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-05 23:55:04.186 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 23:55:14.056
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:55:14.056
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@138a321a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55df52fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:55:14.056
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37bde686,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14698401,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:55:14.056
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b59681f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ac2d940,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7e44fe44,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 23:55:20.003
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:55:20.003
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1dc90aa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@379d89da,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-05 23:55:22.018
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-05 23:55:23.608
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-05 23:57:51.517 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 23:57:57.763
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:57:57.763
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16efb063,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52253f58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:57:57.763
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5451dc09,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a44fe1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:57:57.763
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@778789a9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@635ef38d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ec7e0f2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-05 23:58:02.676
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-05 23:58:02.677
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4672c7b7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1995e383,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-05 23:58:04.567
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-05 23:58:05.202
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-06 00:05:40.341 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data file:/C:/Users/_/Downloads/pleiades/workspace/ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 00:06:13.970
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:06:13.970
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d98740d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43eb317c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:06:13.970
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fde6ba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6036c068,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:06:13.970
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2a921d31,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5eba91cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2aba18aa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 00:06:21.968
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:06:21.968
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@498bcba5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78e6e35b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-06 00:06:23.983
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-06 00:06:24.146
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.ui 2 2 2016-11-06 00:08:26.506
+!MESSAGE Invalid preference category path: org.nodeclipse.enide.gradle.preferences.GradlePreferencePage (bundle: org.nodeclipse.enide.editors.gradle, page: org.nodeclipse.enide.editors.gradle.preferences.GradleEditorPreferencePage)
+!SESSION 2016-11-06 00:19:09.123 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 00:19:15.576
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:19:15.576
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17e72512,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4832cd00,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:19:15.576
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f30e007,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@61c42ccd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:19:15.576
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@165978e0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4c0ec596,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5dce21dc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-06 00:19:22.255
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-06 00:19:23.175
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 00:19:24.706
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 00:19:24.706
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a8ef27,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@79ecea4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-06 02:16:01.630
+!MESSAGE Invalid ZIP archive: trayicon.png [in easyLockJava]
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-11-06 02:16:29.731
+!MESSAGE JavaBuilder handling ImageBuilderInternalException while building: easyLockJava
+!STACK 1
+org.eclipse.core.runtime.CoreException: ファイル C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava に書き込めませんでした。
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:44)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.checkTargetIsNotWritable(LocalFile.java:91)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.mkdir(LocalFile.java:307)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1172)
+	at org.eclipse.core.internal.resources.Folder.internalCreate(Folder.java:172)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:105)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.createFolder(AbstractImageBuilder.java:472)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder$1.visit(AbstractImageBuilder.java:256)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:83)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:129)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:93)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:51)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.addAllSourceFiles(AbstractImageBuilder.java:221)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:52)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:256)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:180)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.filesystem 4 272 2016-11-06 02:16:29.731
+!MESSAGE ファイル C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava に書き込めませんでした。
+!SESSION 2016-11-06 02:17:20.547 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:17:31.707
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:17:31.707
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4aaff390,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@659f993e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:17:31.707
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4185872e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@256dfe9d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:17:31.707
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5867089d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5466a8c2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1fd183d8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:17:38.666
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:17:38.667
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fde7872,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b5b58a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-06 02:17:41.339
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-06 02:17:42.237
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-06 02:19:24.253 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:19:30.736
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:19:30.736
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@126cc02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a1b97e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:19:30.736
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e670ba3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4f2d228b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:19:30.736
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c36fc49,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ded2b17,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7da8232d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-06 02:19:37.743
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-06 02:19:38.536
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:20:19.839
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:20:19.839
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@651ad8bb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@458b10d8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-11-06 02:25:20.426
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.runtime.CoreException: ファイルが見つかりません: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main.class.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1135)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:589)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:458)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:262)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:402)
+	at org.eclipse.core.internal.resources.Project$1.run(Project.java:556)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Project.internalBuild(Project.java:534)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:111)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate$1.run(LaunchConfigurationDelegate.java:430)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2225)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildProjects(LaunchConfigurationDelegate.java:437)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildForLaunch(LaunchConfigurationDelegate.java:130)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main.class (指定されたファイルが見つかりません。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 38 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2016-11-06 02:25:20.428
+!MESSAGE ファイルが見つかりません: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main.class.
+!STACK 0
+java.io.FileNotFoundException: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main.class (指定されたファイルが見つかりません。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1135)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:589)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:458)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:262)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:402)
+	at org.eclipse.core.internal.resources.Project$1.run(Project.java:556)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Project.internalBuild(Project.java:534)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:111)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate$1.run(LaunchConfigurationDelegate.java:430)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2225)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildProjects(LaunchConfigurationDelegate.java:437)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildForLaunch(LaunchConfigurationDelegate.java:130)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-11-06 02:25:20.441
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.runtime.CoreException: ファイルが見つかりません: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main$1.class.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1135)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:589)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:458)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:262)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:402)
+	at org.eclipse.core.internal.resources.Project$1.run(Project.java:556)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Project.internalBuild(Project.java:534)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:111)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate$1.run(LaunchConfigurationDelegate.java:430)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2225)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildProjects(LaunchConfigurationDelegate.java:437)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildForLaunch(LaunchConfigurationDelegate.java:130)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.io.FileNotFoundException: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main$1.class (指定されたファイルが見つかりません。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 38 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2016-11-06 02:25:20.442
+!MESSAGE ファイルが見つかりません: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main$1.class.
+!STACK 0
+java.io.FileNotFoundException: C:\Users\_\Downloads\pleiades\workspace\easyLockJava\bin\easyLockJava\main$1.class (指定されたファイルが見つかりません。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1135)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:589)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:458)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:262)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:402)
+	at org.eclipse.core.internal.resources.Project$1.run(Project.java:556)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Project.internalBuild(Project.java:534)
+	at org.eclipse.core.internal.resources.Project.build(Project.java:111)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate$1.run(LaunchConfigurationDelegate.java:430)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2225)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildProjects(LaunchConfigurationDelegate.java:437)
+	at org.eclipse.debug.core.model.LaunchConfigurationDelegate.buildForLaunch(LaunchConfigurationDelegate.java:130)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:855)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2016-11-06 02:39:23.404
+!MESSAGE 内部エラー
+!STACK 1
+org.eclipse.core.runtime.CoreException: 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.computeUnresolvedClasspath(StandardClasspathProvider.java:40)
+	at org.eclipse.jdt.launching.JavaRuntime.computeUnresolvedRuntimeClasspath(JavaRuntime.java:1246)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getClasspath(FatJarPackageWizardPage.java:760)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:1033)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:701)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizard.performFinish(FatJarPackageWizard.java:214)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:799)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:429)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.eclipse.ui.internal.handlers.WizardHandler$Export.executeHandler(WizardHandler.java:106)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:160)
+	at org.eclipse.ui.internal.actions.CommandAction.run(CommandAction.java:175)
+	at org.eclipse.ui.actions.ExportResourcesAction.run(ExportResourcesAction.java:119)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:170)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2016-11-06 02:39:23.405
+!MESSAGE 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2016-11-06 02:39:47.372
+!MESSAGE 内部エラー
+!STACK 1
+org.eclipse.core.runtime.CoreException: 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.computeUnresolvedClasspath(StandardClasspathProvider.java:40)
+	at org.eclipse.jdt.launching.JavaRuntime.computeUnresolvedRuntimeClasspath(JavaRuntime.java:1246)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getClasspath(FatJarPackageWizardPage.java:760)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:1033)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:701)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizard.performFinish(FatJarPackageWizard.java:214)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:799)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:429)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.eclipse.ui.internal.handlers.WizardHandler$Export.executeHandler(WizardHandler.java:106)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:160)
+	at org.eclipse.ui.internal.actions.CommandAction.run(CommandAction.java:175)
+	at org.eclipse.ui.actions.ExportResourcesAction.run(ExportResourcesAction.java:119)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:170)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2016-11-06 02:39:47.372
+!MESSAGE 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2016-11-06 02:40:26.649
+!MESSAGE 内部エラー
+!STACK 1
+org.eclipse.core.runtime.CoreException: 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.computeUnresolvedClasspath(StandardClasspathProvider.java:40)
+	at org.eclipse.jdt.launching.JavaRuntime.computeUnresolvedRuntimeClasspath(JavaRuntime.java:1246)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getClasspath(FatJarPackageWizardPage.java:760)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:1033)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizardPage.getSelectedElementsWithoutContainedChildren(FatJarPackageWizardPage.java:701)
+	at org.eclipse.jdt.internal.ui.jarpackagerfat.FatJarPackageWizard.performFinish(FatJarPackageWizard.java:214)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:799)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:429)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:827)
+	at org.eclipse.jface.window.Window.open(Window.java:803)
+	at org.eclipse.ui.internal.handlers.WizardHandler$Export.executeHandler(WizardHandler.java:106)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor59.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:252)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:234)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:493)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:486)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:160)
+	at org.eclipse.ui.internal.actions.CommandAction.run(CommandAction.java:175)
+	at org.eclipse.ui.actions.ExportResourcesAction.run(ExportResourcesAction.java:119)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:170)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2016-11-06 02:40:26.650
+!MESSAGE 起動構成 main は閉じたプロジェクト easyLockJava を参照します
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-06 02:42:46.497
+!MESSAGE Invalid ZIP archive: ukulele.png [in easyLockJava2]
+
+!ENTRY org.eclipse.jdt.core 4 0 2016-11-06 02:42:46.602
+!MESSAGE Invalid ZIP archive: ukulele.png [in easyLockJava2]
+!SESSION 2016-11-06 02:50:11.288 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:50:17.834
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:50:17.834
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@489e5b4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@147b7c85,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:50:17.834
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f7ab9dc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@32402aa9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:50:17.834
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12b0d705,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17f492d9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39d4f0d8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2016-11-06 02:50:22.845
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-06 02:50:22.845
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33b8d4ca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b9a344d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-06 02:50:25.042
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-06 02:50:25.927
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-11-12 21:56:06.496 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-11-12 21:56:55.448
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-12 21:56:55.448
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@21bffa84,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@42d8016b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-12 21:56:55.448
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@73453a15,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45e873d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-12 21:56:55.448
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@200c03d9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74d0abfe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fcbec9c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-12 21:57:04.682
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-11-12 21:57:04.856
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.jface 2 0 2016-11-12 21:57:10.277
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-11-12 21:57:10.277
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5a917bd6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5594d0e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SESSION 2016-12-08 22:22:43.038 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-12-08 22:22:54.250
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-08 22:22:54.250
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@de64d35,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ad6d9b4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-08 22:22:54.250
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55a56f72,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6037d14b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-08 22:22:54.250
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@708dc446,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b510964,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@153fbb47,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-08 22:23:01.104
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-12-08 22:23:02.892
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+!SESSION 2016-12-17 22:44:59.960 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-12-17 22:45:10.851
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 22:45:10.851
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39d4f0d8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b101291,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 22:45:10.851
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64a8bd73,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22dfca6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 22:45:10.851
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1925f768,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b95d9be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b0a4ee3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-17 22:45:17.623
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-12-17 22:45:19.416
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
+
+!ENTRY org.eclipse.jface 2 0 2016-12-17 22:45:26.501
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 22:45:26.501
+!MESSAGE ALT+CTRL+SPACE の競合が発生しました:
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(AnyEdit.CnvrtTabToSpaces.command,タブをスペースに,
+		,
+		Category(AnyEdit.category,AnyEdit ツール,AnyEdit ツール・キー・バインド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@796ea166,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+SPACE,
+	ParameterizedCommand(Command(org.eclipse.recommenders.snipmatch.rcp.commands.completion,Snipmatch スニペット・コンプリート,
+		Open a dialog to search for and insert code snippets,
+		Category(org.eclipse.jdt.ui.category.source,ソース,Java ソース・アクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e266dd2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SESSION 2016-12-17 23:10:13.438 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data ../workspace -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2016-12-17 23:10:22.032
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 23:10:22.032
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,サーバーでデバッグ,
+		サーバー上の現在の選択をデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@832f7cb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,RAP アプリケーションのデバッグ,
+		RAP アプリケーションのデバッグ,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a2a34a1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 23:10:22.032
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,サーバーで実行,
+		サーバー上の現在の選択を実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c9bd083,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,RAP アプリケーションの実行,
+		RAP アプリケーションの実行,
+		Category(org.eclipse.debug.ui.category.run,実行/デバッグ,コマンド実行/デバッグのカテゴリー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@69968029,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-12-17 23:10:22.032
+!MESSAGE ALT+CTRL+T の競合が発生しました:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,ターミナル・コマンド,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17b839e7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(pl.szpinda.plugin.tomcat.commands.tomcatStartStop,Tomcat 開始、停止,
+		,
+		Category(pl.szpinda.plugin.tomcat.commands.category.key,Tomcat keys,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3fe178db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,プロパティーの表示,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6bc592a0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-17 23:10:30.604
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2016-12-17 23:10:31.851
+!MESSAGE 未処理のイベント・ループ例外
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V)
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4155)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:694)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:606)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1488)
+Caused by: java.lang.NoSuchMethodError: org.eclipse.ui.internal.registry.FileEditorMapping.setDefaultEditor(Lorg/eclipse/ui/internal/registry/EditorDescriptor;)V
+	at org.sf.feeling.decompiler.Startup$SetupClassFileAssociationRunnable.run(Startup.java:81)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:162)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:154)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 24 more
